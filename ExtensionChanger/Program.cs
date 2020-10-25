@@ -16,7 +16,7 @@ namespace HTML2PHP
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new html2php_form());
+            Application.Run(new ExtensionChanger_form());
         }
     }
 }
